@@ -1,2 +1,2 @@
-# Solidity-Programming-Language
+# Solidity
 Various programs in solidity programming laguage
