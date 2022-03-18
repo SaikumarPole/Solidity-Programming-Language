@@ -1,7 +1,7 @@
 pragma solidity 0.6.0;
 //pragma is a keyword
 //also mention the version of the solidity
-contract day1{
+contract variablesInSolidity{
     //Variables in Solidity
 
     //1. Fixed-size data types
