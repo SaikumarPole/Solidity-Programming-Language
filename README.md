@@ -8,4 +8,5 @@ This contains various programs which are usefull to master solidity programming 
 ### 6. Arrays
 ### 7. Mapping examples and types
 ### 8. Structres
+### 9. Enums
 
