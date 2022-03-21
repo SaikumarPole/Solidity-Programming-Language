@@ -11,7 +11,7 @@ contract contructorEx{
         return a;
     }
 }
-contract childContract is HelloWorld{
+contract childContract is constuctorEx{
     //we can call the parent contructor by just like this
     uint some;
     constructor(uint b) HelloWorld(some) public{
