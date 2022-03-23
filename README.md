@@ -15,4 +15,6 @@ This contains various programs which are usefull to master solidity programming 
 ### 14. Error Handling
 ### 15. Inheritence
 ### 16. Libraries
+# Contracts
+### 1. Lottery Contract
 
